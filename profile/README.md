@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="../assets/ashlynsmp.png">
 
 <!--
 
